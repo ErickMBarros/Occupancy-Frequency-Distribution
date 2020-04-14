@@ -5,6 +5,8 @@ Erick Mateus-Barros: erickmbarros@gmail.com
 Hugo Sarmento: hsarmento@ufscar.br
 
 
+
+
 ## Overview
 In this manuscript we evaluated the occupancy-frequency distribution for bacterial freshwater communities from 60 shallow lakes distributed across a wide area (over 3000 km perimeter, 250.000 km²) in Brazil, and also, the relationship between this distribution pattern and local abundances and environmental factors, aiming to elucidate the importance of these locally heterogeneous factors on bacterial occupancy. We found that pH was the most important factor shaping this pattern, but a more detailed analysis indicated that this factor was the major driver only for the most abundant and ubiquitous organisms, while the remaining community was rather shaped by nutrients.
 
